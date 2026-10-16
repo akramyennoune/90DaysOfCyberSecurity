@@ -86,7 +86,7 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 - **Questions or study buddies:** use [GitHub Discussions](https://github.com/farhanashrafdev/90DaysOfCyberSecurity/discussions). Issues are for broken links and content fixes.
 - **Prefer another language?** See [Translations](#translations).
 
-## Day 1-7: Network+
+## Day 1-7: Network+ ( in progress)
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
 - Complete any related practice questions or exercises.
 
