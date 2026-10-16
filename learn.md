@@ -1,6 +1,6 @@
 # Learning Resources
 
-## Network+
+## Network+ ( in progress)
 - Professor Messer's N10-009 Playlist: https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8
 
 ## Security+
